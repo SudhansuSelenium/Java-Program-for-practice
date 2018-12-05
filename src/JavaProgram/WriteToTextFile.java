@@ -9,7 +9,7 @@ public class WriteToTextFile {
 
 	public static void main(String[] args) throws IOException {
 		String str = "This is demo";
-		File file = new File("D:\\SeleniumProjects\\JavaProgramPractice\\Text.txt");
+		File file = new File("D:\\Java2Practice\\Java-Program-for-practice\\Text.txt");
 		if (file.exists()) {
 			System.out.println("File exists");
 		} else {
