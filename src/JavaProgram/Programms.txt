@@ -8,7 +8,7 @@
 8. Verify string is palindrome
 9. Verify integer is palindrome
 10. Draw a patern
-11. Finf max and min number in Array
+11. Find max and min number in Array
 12. swap 2 strings without third variable
 13. swap 2 number without third variable
 14. Read text from file and reverse particular text
