@@ -21,7 +21,7 @@ public class CountDuplicateElement {
 			for (int j = i + 1; j < num.length; j++) {
 				if (num[i].equals(num[j])) {
 					count = count + 1;
-					System.out.println("equal "+num[i]);
+					System.out.println("equal " + num[i]);
 				}
 			}
 		}
@@ -45,9 +45,14 @@ public class CountDuplicateElement {
 				System.out.println(s);
 			}
 		}
+		// Print duplicate elements in string
+		// Take a string
+		// Split the string into array string by using split method
+		// Than create 2 loops, 1st for 1st element and starts from 2nd for second
+		// element for compare
+		// Than comapre using equal() method
 		String string = "this is test this is demo";
 		String[] stringarr = string.split(" ");
-		System.out.println(Arrays.toString(stringarr));
 		for (int ii = 0; ii < stringarr.length; ii++) {
 			for (int jj = ii + 1; jj < stringarr.length; jj++) {
 				if (stringarr[ii].equals(stringarr[jj])) {
