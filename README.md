@@ -10,6 +10,36 @@ This repo contains java program to practice
 8. Verify string is palindrome
 9. Verify integer is palindrome
 10. Draw a patern
+1
+12
+123
+1234
+
+1234
+123
+12
+1
+
+1
+22
+333
+4444
+
+1
+23
+456
+78910
+
+123
+12
+1
+12
+123
+
+  1
+ 12
+123
+
 11. Find max and min number in Array
 12. swap 2 strings without third variable
 13. swap 2 number without third variable
@@ -17,3 +47,4 @@ This repo contains java program to practice
 15. Write next character of each character
 15. Shift particulat character to first position
 16. Replace particular word with specific word in array
+17. Write prime number
